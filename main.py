@@ -1,3 +1,6 @@
+# Importando pymongo
+import pymongo
+
 # Calculadora
 
 # declaração das variáveis
